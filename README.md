@@ -10,7 +10,7 @@ This system classifies objects based on the SONAR dataset, which consists of dif
 
 - The dataset used in this project is the **SONAR data**.
 - It has 60 features (representing sound frequencies) and a target label (either `R` for Rock or `M` for Mine).
-- You can download the dataset from [this Google Drive link](https://drive.google.com/drive/folders/1_63Ie10w_RQZ8KUVoaPN_p_1mexa_vlN?usp=drive_link).
+- You can download the dataset from [this Google Drive link](https://drive.google.com/drive/folders/1_63Ie10w_RQZ8KUVoaPN_p_1mexa_vlN?usp=sharing).
 
 ## Dependencies
 
